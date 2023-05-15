@@ -6,6 +6,9 @@
 ##
 
 <div align="center">
+  
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/ikawakami)
+  
   <a href="https://github.com/kawakami01">
     
   <img height="300em" src="https://streak-stats.demolab.com?user=kawakami01&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=79FE96"/>
@@ -17,6 +20,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Kawakami01-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kawakami01-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  
+  
 </div>
 
 ##
