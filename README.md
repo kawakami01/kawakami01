@@ -5,7 +5,7 @@
 
 ##
 
-<div align="center">
+<!-- <div align="center">
   
   ![Leetcode Stats](https://leetcard.jacoblin.cool/ikawakami)
   
@@ -22,7 +22,7 @@
   <img align="center" alt="Kawakami01-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   
   
-</div>
+</div> -->
 
 ##
   <a href = "mailto:m.kawakami@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
